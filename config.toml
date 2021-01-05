@@ -1,4 +1,4 @@
-baseURL = "https://awesoft.netlify.app/"
+baseURL = "https://awesoft.de/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
