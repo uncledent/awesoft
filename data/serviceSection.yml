@@ -1,45 +1,33 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Was wir machen
 title: >
-  ## Creative Services
+  ## Technologien
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Unser Technolie-Stack ermöglicht Ihr Projekt von A bis Z umzusetzen
 service:
   - content: >
-      #### UI/UX Design 
+      #### React Native
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Umsetzung Ihrer mobilen App für iOS und Android mit einer Code-Basis geschrieben in Typescript
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### React
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Modernes Frontend für Ihre Web-Application. 
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### NodeJS / Nest/JS
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Weil man ein Feature-Starkes Backend braucht
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Flutter
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Umsetzung Ihrer mobilen App für iOS und Android mit einer Code-Basis geschrieben in Dart
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Docker / Kubernetes / AWS / AZURE
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Unsere Dev-Ops optimieren Ihre Applikation für Skalierung und Zuverlässigkeit
     image: images/service/web.svg

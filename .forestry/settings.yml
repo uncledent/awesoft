@@ -7,9 +7,9 @@ sections:
 - type: document
   path: data/hero.yml
   label: Hero
-- type: document
-  path: data/aboutSection.yml
-  label: About
+# - type: document
+#   path: data/aboutSection.yml
+#   label: About
 - type: document
   path: data/serviceSection.yml
   label: Services
