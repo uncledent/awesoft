@@ -1,12 +1,11 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Brauchen Sie kompetente Entwickler?
 content: >
-  # I am here for your personal business
+  # Qualität und Tempo!
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Wir sind ein erfahrenes Entwickler-Team aus München. Wir übernehmen gerne Konzeption, Design und Impelentierung von Ihrer mobilen oder Web-Application.
+buttonName: Kontaktieren Sie uns
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
