@@ -10,24 +10,29 @@ service:
       #### React Native
 
       Umsetzung Ihrer mobilen App für iOS und Android mit einer Code-Basis geschrieben in Typescript
-    image: images/service/ui-ux.svg
+    image: images/service/react.svg
   - content: >
       #### React
 
       Modernes Frontend für Ihre Web-Application. 
-    image: images/service/web.svg
+    image: images/service/react.svg
   - content: >
       #### NodeJS / Nest/JS
 
       Weil man ein Feature-Starkes Backend braucht
-    image: images/service/creative.svg
+    image: images/service/node.svg
   - content: >
       #### Flutter
 
       Umsetzung Ihrer mobilen App für iOS und Android mit einer Code-Basis geschrieben in Dart
-    image: images/service/branding.svg
+    image: images/service/flutter.svg
+  - content: >
+      #### Angular
+
+      Enterprise-Level Frontend für Ihre Web-Application mit Framework von Google 
+    image: images/service/angular.svg
   - content: >
       #### Docker / Kubernetes / AWS / AZURE
 
       Unsere Dev-Ops optimieren Ihre Applikation für Skalierung und Zuverlässigkeit
-    image: images/service/web.svg
+    image: images/service/kubernets.svg
